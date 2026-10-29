@@ -1,0 +1,10 @@
+/* App.css — global resets on top of index.css */
+
+#root {
+  isolation: isolate;
+}
+
+main {
+  position: relative;
+  z-index: 1;
+}
